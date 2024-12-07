@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Python: the ZeroDivisionError. The initial version of `calculate_average` fails when processing an empty list.  The solution handles this edge case gracefully, returning 0 instead of causing an error. This example highlights the importance of defensive programming and handling potential exceptions.
